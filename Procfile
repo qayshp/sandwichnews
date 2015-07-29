@@ -1,0 +1,1 @@
+web: gunicorn sandwichnews.wsgi --log-file -
